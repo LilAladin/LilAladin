@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LilAladin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Telegram @LilAladin
+- ⛽ I’m benzo-man 
+- 🤑 I’m invented money
+- 🤡 I’m clown
+- 🗿 How to live
 
 <!---
 ESSKEETIT
