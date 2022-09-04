@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/dark-cyberpunk-axnFGXT6MzvgY" width="500"/>
+  <img src="https://giphy.com/gifs/BooleanCareers-transparent-cUAGuLiEcTBwRfkAQq" width="100"/>
 </div>
