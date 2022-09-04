@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges">
-  <a href="your-telegram-URL">
-    <img src="https://img.shields.io/badge/-Telegram-blue?color=blue&logo=Telegram&logoColor=black" alt="https://t.me/LilAladin"/>
+  <a href="https://t.me/LilAladin">
+    <img src="https://img.shields.io/badge/-Telegram-blue?color=blue&logo=Telegram&logoColor=black" alt="Telegram"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
