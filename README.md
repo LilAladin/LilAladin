@@ -9,7 +9,7 @@
   <a href="https://t.me/LilAladinBio">
     <img src="https://img.shields.io/badge/-Projects-blue?color=blue&logo=Telegram&logoColor=black" alt="Projects"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://lilaladin.uz">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="me website"/>
   </a>
 </div>
